@@ -25,7 +25,7 @@ const tasks = [
 ];
 
 const taskIteration = () => {
-  checkboxList.innerHTML = '';
+  todoList.innerHTML = '';
   tasks.forEach((task) => {
     const listItem = document.createElement('li');
     listItem.innerText = task.description;
