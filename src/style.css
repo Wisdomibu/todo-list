@@ -72,3 +72,6 @@ button{
     display: none;
 }
 
+.task {
+  outline: none;
+}
