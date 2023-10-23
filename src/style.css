@@ -13,11 +13,8 @@ body {
 }
 
 .container {
-  /* border: 1px solid black; */
   width: 500px;
   background-color: white;
-
-  /* padding: 20px; */
   box-shadow: 10px 10px 10px 10px rgb(216, 216, 216);
 }
 
