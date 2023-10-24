@@ -1,4 +1,3 @@
-// import { from } from 'webpack-sources/lib/CompatSource';
 import './style.css';
 
 import { createTodoList } from './tasks.js';
